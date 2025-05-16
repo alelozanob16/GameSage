@@ -2,3 +2,4 @@ crewai
 crewai[tools]
 pydantic
 python-dotenv
+fastapi
