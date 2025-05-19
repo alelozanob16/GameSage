@@ -1,65 +1,54 @@
-```
-## Detailed Report on RPG Games Similar to Baldur's Gate 3 and Oblivion
+### Final Answer
 
-### 1. Clair Obscur: Expedition 33
-- **Description:** A narrative RPG that has been highlighted as a must-play, even over Baldur's Gate 3 and Oblivion Remastered.
-- **Key Features:** Strong narrative focus, unique gameplay mechanics.
-- **Release Date:** Recent release.
-- **Source:** [PCGamesN](https://www.pcgamesn.com/clair-obscur-expedition-33/narrative-rpgs)
+Here is a detailed report on hidden gems in RPG games based on recent news and trends:
 
-### 2. Elden Ring
-- **Description:** A highly acclaimed open-world RPG that follows the success of Dark Souls.
-- **Key Features:** Vast open world, challenging combat, deep lore.
-- **Release Date:** 2022.
-- **Source:** [TheGamer](https://www.thegamer.com/oblivion-remastered-best-similar-games/)
+---
 
-### 3. Disco Elysium
-- **Description:** A unique RPG with a strong focus on narrative and character development.
-- **Key Features:** Isometric view, deep dialogue system, no combat.
-- **Release Date:** 2019.
-- **Source:** [TheGamer](https://www.thegamer.com/oblivion-remastered-best-similar-games/)
+### Hidden Gems in RPG Games
 
-### 4. Kingdom Come: Deliverance 2
-- **Description:** A sequel to the critically acclaimed Kingdom Come: Deliverance, set in a realistic medieval world.
-- **Key Features:** Realistic combat, immersive world, historical accuracy.
-- **Release Date:** Upcoming.
-- **Source:** [PC Gamer](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-dev-says-it-deliberately-avoids-the-instant-gratification-of-modern-games-channelling-the-best-of-bethesda-like-morrowind-and-oblivion/)
+#### 1. **Drova - Teaser**
+- **Description**: A Gothic-inspired pixel art RPG by developer Falkenbrew.
+- **Unique Features**: Offers more freedom than many big-budget RPGs, with a handcrafted world and deep lore.
+- **Status**: Early access, with a promising development roadmap.
+- **Source**: [PC Gamer](https://www.pcgamer.com/games/rpg/this-gothic-inspired-rpg-indie-is-shaping-up-to-be-my-favourite-hidden-gem-of-2024/)
 
-### 5. Avowed
-- **Description:** A first-person RPG set in the world of Eora, from the creators of Pillars of Eternity.
-- **Key Features:** First-person perspective, magic and melee combat, large world.
-- **Release Date:** Upcoming.
-- **Source:** [DualShockers](https://www.dualshockers.com/best-games-like-avowed/)
+#### 2. **Underrated Isometric RPGs**
+- **Examples**: Games like *Tyranny* and *Arcanum: Of Steamworks and Magick Obscura* are often overlooked due to unconventional mechanics or settings.
+- **Why They’re Hidden Gems**: These games offer rich storytelling and unique gameplay but have not received mainstream recognition.
+- **Source**: [Game Rant](https://gamerant.com/underrated-isometric-rpgs-you-missed-ranked/)
 
-### 6. The Witcher 3: Wild Hunt
-- **Description:** An open-world RPG with a rich narrative and detailed world.
-- **Key Features:** Action-RPG combat, multiple endings, deep lore.
-- **Release Date:** 2015.
-- **Source:** [PCGamesN](https://www.pcgamesn.com/the-elder-scrolls-v-skyrim/games-like-skyrim)
+#### 3. **Indie Hidden Gems of 2024**
+- **Highlighted Titles**: *Hades*, *Disco Elysium*, and *Celeste* (though some have gained popularity, they were initially overlooked).
+- **Trend**: Many small indie RPGs are delivering excellent experiences but lack marketing budgets.
+- **Source**: [Inverse](https://www.inverse.com/gaming/the-10-best-indie-hidden-gems-ranked)
 
-### 7. Starfield
-- **Description:** A highly anticipated space RPG from Bethesda.
-- **Key Features:** Space exploration, ship building, role-playing elements.
-- **Release Date:** Upcoming.
-- **Source:** [PCGamesN](https://www.pcgamesn.com/the-elder-scrolls-v-skyrim/games-like-skyrim)
+#### 4. **Nintendo DS and 3DS RPGs**
+- **Hidden Gems**: *Radiant Historia*, *The World Ends with You*, and *Dragon Quest IX* are fantastic RPGs often overshadowed by other franchises.
+- **Why They’re Worth It**: These games offer deep narratives and innovative gameplay mechanics.
+- **Source**: [TheGamer](https://www.thegamer.com/hidden-gems-nintendo-3ds-ds/)
 
-### 8. Dragon Age: Inquisition
-- **Description:** A fantasy RPG with a focus on story and character interactions.
-- **Key Features:** Party-based combat, vast world, multiple races.
-- **Release Date:** 2014.
-- **Source:** [Game Rant](https://gamerant.com/dragon-age-similar-games-mass-effect-elder-scrolls/)
+#### 5. **PS1 Underrated RPGs**
+- **Examples**: *Vagrant Story*, *Suikoden II*, and *Parasite Eve*.
+- **Legacy**: These games were ahead of their time with unique stories and gameplay but didn’t achieve blockbuster status.
+- **Source**: [Comic Book Resources](https://www.cbr.com/original-playstation-best-overlooked-rpgs/)
 
-### 9. The Elder Scrolls V: Skyrim
-- **Description:** A classic RPG with a massive open world and complete freedom.
-- **Key Features:** Exploration, modding support, first-person and third-person views.
-- **Release Date:** 2011.
-- **Source:** [IGN](https://www.ign.com/articles/best-games-like-elder-scrolls-5-skyrim)
+#### 6. **Jeanne d'Arc (PSP)**
+- **Description**: A strategy RPG similar to *Final Fantasy Tactics*.
+- **Status**: Originally a PSP exclusive, it is now being re-released on PS5 and PS4.
+- **Why It’s a Gem**: Deep strategy gameplay with a historical twist, but overlooked due to its platform.
+- **Source**: [GamesRadar+](https://www.gamesradar.com/games/rpg/im-begging-final-fantasy-tactics-fans-to-check-out-this-hidden-strategy-rpg-gem-that-was-locked-away-in-psp-prison-for-18-years/)
 
-### 10. Mass Effect Legendary Edition
-- **Description:** A remastered collection of the original Mass Effect trilogy.
-- **Key Features:** Sci-fi RPG, deep narrative, character relationships.
-- **Release Date:** 2021.
-- **Source:** [Game Rant](https://gamerant.com/dragon-age-similar-games-mass-effect-elder-scrolls/)
+#### 7. **Upcoming PC Games (2025)**
+- **Hidden Gems**: Some upcoming indie RPGs are already showing promise with unique concepts, though they are not yet widely known.
+- **Trend**: Anticipated titles like *Avowed* and *Fable* might overshadow smaller gems, so keep an eye out.
+- **Source**: [PC Gamer](https://www.pcgamer.com/games/new-games-2025-upcoming-pc-release-schedule/)
 
-This report summarizes some of the top RPG games recommended for fans of Baldur's Gate 3 and Oblivion. Each game offers a unique take on the RPG genre, with varying focuses on narrative, combat, and world-building. 
-```
+#### 8. **Dungeon RPG Hidden Gem**
+- **Description**: A new dungeon RPG (unnamed in the search results) is gaining praise for its mechanics and design.
+- **Status**: Early in its release, with positive player feedback.
+- **Why It’s Worth Watching**: Despite fewer reviews, the game is impressing fans of the genre.
+- **Source**: [Notebookcheck](https://www.notebookcheck.net/Hidden-gem-This-dungeon-RPG-is-winning-over-players.954075.0.html)
+
+---
+
+This report summarizes some of the most intriguing hidden gems in the RPG genre, from indie titles to overlooked classics on older platforms. Each of these games offers a unique experience that deserves more attention from RPG fans.
