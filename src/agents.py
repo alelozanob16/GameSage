@@ -1,11 +1,14 @@
 from crewai import Agent
 from crewai import LLM
 from crewai_tools import SerperDevTool
+from dotenv import load_dotenv
 import os
+load_dotenv()
+
 
 llm = LLM(
     model = "openrouter/deepseek/deepseek-prover-v2:free",
-    base_url = "https://api.openrouter.ai/v1",
+    base_url = "https://openrouter.ai/api/v1",
     temperature = 0.8,
     api_key = os.getenv("OPENROUTER_API_KEY")
 )

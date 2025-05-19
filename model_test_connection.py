@@ -13,7 +13,7 @@ completion = client.chat.completions.create(
   messages=[
     {
       "role": "user",
-      "content": "Tell objectively about the best storytelling vido games of all time."
+      "content": "Tell objectively about the top 10 best storytelling vido games of all time."
     }
   ]
 )
