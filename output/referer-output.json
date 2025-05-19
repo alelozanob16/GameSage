@@ -1,0 +1,44 @@
+```JSON
+[
+    {
+        "name": "Clair Obscur: Expedition 33",
+        "reason": "A narrative RPG with a strong focus on story and unique gameplay mechanics, recently released and highly recommended."
+    },
+    {
+        "name": "Elden Ring",
+        "reason": "A critically acclaimed open-world RPG with a vast open world, challenging combat, and deep lore, released in 2022."
+    },
+    {
+        "name": "Disco Elysium",
+        "reason": "A unique RPG with a strong focus on narrative and character development, featuring an isometric view and deep dialogue system, released in 2019."
+    },
+    {
+        "name": "Kingdom Come: Deliverance 2",
+        "reason": "A sequel to the critically acclaimed Kingdom Come: Deliverance, set in a realistic medieval world, focusing on realistic combat and historical accuracy, upcoming."
+    },
+    {
+        "name": "Avowed",
+        "reason": "A first-person RPG set in the world of Eora, from the creators of Pillars of Eternity, featuring magic and melee combat in a large world, upcoming."
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "reason": "An open-world RPG with a rich narrative and detailed world, featuring action-RPG combat and multiple endings, released in 2015."
+    },
+    {
+        "name": "Starfield",
+        "reason": "A highly anticipated space RPG from Bethesda, featuring space exploration, ship building, and role-playing elements, upcoming."
+    },
+    {
+        "name": "Dragon Age: Inquisition",
+        "reason": "A fantasy RPG with a focus on story and character interactions, featuring party-based combat and a vast world, released in 2014."
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim",
+        "reason": "A classic RPG with a massive open world and complete freedom, featuring exploration, modding support, and first-person and third-person views, released in 2011."
+    },
+    {
+        "name": "Mass Effect Legendary Edition",
+        "reason": "A remastered collection of the original Mass Effect trilogy, featuring sci-fi RPG elements, a deep narrative, and character relationships, released in 2021."
+    }
+]
+```
