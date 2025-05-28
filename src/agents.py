@@ -16,7 +16,7 @@ llm = LLM(
 serper_tool = SerperDevTool(
     api_key = os.getenv("SERPER_API_KEY"),
     search_engine = "google",
-    search_type = "news"
+    search_type = "search"
 )
 
 vg_researcher = Agent(
@@ -31,6 +31,5 @@ vg_referrer = Agent(
     role = "Referrer",
     goal = "Refers the best video games to the user.",
     backstory = "You are a video game expert, and you know the best games for each type of player.",
-    tools = [],
     llm = llm
 )
