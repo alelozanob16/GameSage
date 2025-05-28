@@ -1,5 +1,7 @@
 # GameSage
 
+AI agent project based on crewAI in which two agents communicate to recommend the best video games based on user input.
+
 To launch the api:
 
 1 Research about video games based on the input
