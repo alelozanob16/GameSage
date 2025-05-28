@@ -6,6 +6,7 @@ research_task = Task(
     description="""
     You must research the most related information information about video games based on {query}.
     You must extract all the relevant information in order to help the Referrer agent to refer the best video games to the user.
+    It must be 
     """,
     agent = vg_researcher,
     expected_output = "A highly detailed report in markdown.",

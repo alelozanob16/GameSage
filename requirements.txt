@@ -3,3 +3,5 @@ crewai[tools]
 pydantic
 python-dotenv
 fastapi
+langtrace_python_sdk
+requests
